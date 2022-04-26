@@ -22,14 +22,15 @@ It's developed using Intellij IDE<br />
 ![image](https://user-images.githubusercontent.com/104272812/165190044-3a848dc3-9403-467f-adf5-a086fd569017.png)
 
 # User Interface 
-![image](https://user-images.githubusercontent.com/104272812/165190257-fc4f20db-a988-45a2-84b5-633c00114402.png)
+![image](https://user-images.githubusercontent.com/104272812/165192180-04db4855-2ba8-4c2c-b929-7cddbb5a8dc0.png)
 
 # 403 page Interface
-![image](https://user-images.githubusercontent.com/104272812/165190295-05d336db-1e63-4514-8d35-46ddd42c718a.png)
-
+![image](https://user-images.githubusercontent.com/104272812/165192248-328ec098-0233-4dc2-ae96-710e6cfbfdb9.png)
 # Admin Interface 
-![image](https://user-images.githubusercontent.com/104272812/165190435-9c180f77-595d-4699-af05-9d0aa60f20d0.png)
+![image](https://user-images.githubusercontent.com/104272812/165192308-75148d62-af0d-4cb6-92ff-defd97077d81.png)
+
 # Add new patient
-![image](https://user-images.githubusercontent.com/104272812/165190465-749a119f-55ae-4a64-a6ca-fd9adf2e69f3.png)
+![image](https://user-images.githubusercontent.com/104272812/165192330-005ce3b8-3fa0-4b78-b90f-62b168c6ec43.png)
+
 # Edit a patient
-![image](https://user-images.githubusercontent.com/104272812/165190502-bc76a20d-0608-40ee-b1c2-5f8afb759cbf.png)
+![image](https://user-images.githubusercontent.com/104272812/165192367-921e08a0-bcaa-43f8-b476-2e5187063517.png)
